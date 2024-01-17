@@ -1,0 +1,63 @@
+# <email> ve <sifre> bilgisi ile oturum aç
+* "girisEkrani" elementine tikla
+* "email" elementine <email> degerini yaz
+* "sifre" elementine <sifre> degerini yaz
+* "girisYap" elementine tikla
+
+
+# <kadin> için <dogumGunu> hediyesi için tüm ürünleri listele
+* "kimeHediye" elementine tikla
+* <kadin> elementine tikla
+* "hediyeTipi" elementine tikla
+* <dogumGunu> elementine tikla
+* "hediyeAra" elementine tikla
+* "tumUrunler" elementine tikla
+
+
+# <yetiskinFiltre> ve <anneFiltre> filtrelemesi yap
+* Ekrani "200" piksel asagi kaydir
+* <yetiskinFiltre> elementine tikla
+* <anneFiltre> elementine tikla
+* "filtreleButton" elementine tikla
+* "2" saniye bekle
+
+
+# İlk sıradaki ürünün detayına gir
+* "ilkUrun" elementine tikla
+* "2" saniye bekle
+
+
+# Urun 4.0 puandan büyükse favoriye ekle
+* "puan" degeri 4.0'ten buyukse "favoriEkle" elementine tikla
+* "2" saniye bekle
+
+
+# Favoriler sayfasında ürün varsa detayına git
+* "favoriler" elementine tikla
+* "2" saniye bekle
+* "favoriKontrol" elementi varsa "favoriUrun" elementine tikla
+
+
+# Urunu sepete ekle
+* "sepeteEkle" elementine tikla
+* "2" saniye bekle
+
+
+# Sepette bulunan ürünü sil
+* "sepetKontrol" elementi varsa "urunSil" elementine tikla
+* Alert onayla
+* "1" saniye bekle
+
+
+# Anasayfaya dön
+* "logo" elementine tikla
+
+
+# Çıkış yap
+* "hesabim" elementine tikla
+* "cikisYap" elementine tikla
+* "2" saniye bekle
+
+
+
+

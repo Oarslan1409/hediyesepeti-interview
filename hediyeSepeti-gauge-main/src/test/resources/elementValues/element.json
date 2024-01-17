@@ -1,0 +1,137 @@
+[
+  {
+    "key": "girisEkrani",
+    "value": "login-button",
+    "type": "id"
+  },
+  {
+    "key": "kimeHediye",
+    "value": "giftTypes",
+    "type": "id"
+  },
+  {
+    "key": "email",
+    "value": "input[name='contact']",
+    "type": "css"
+  },
+  {
+  "key": "sifre",
+  "value": "user-password",
+  "type": "id"
+},
+  {
+  "key": "girisYap",
+  "value": "button[onclick=\"login(this, 'https://www.hediyesepeti.com/');\"]",
+  "type": "css"
+},
+  {
+    "key": "kadin",
+    "value": "option[value='1']",
+    "type": "css"
+  },
+  {
+    "key": "tumUrunler",
+    "value": "a[class='c-see-all-link u-font-size-small u-margin-right-xsmall']",
+    "type": "css"
+  },
+  {
+    "key": "filtreleButton",
+    "value": "button[style=\"width: 10rem;\"]",
+    "type": "css"
+  },
+  {
+    "key": "cikisYap",
+    "value": "a[href=\"https://www.hediyesepeti.com/kullanici/cikis-yap\"]",
+    "type": "css"
+  },
+  {
+    "key": "hesabim",
+    "value": "a[href=\"https://www.hediyesepeti.com/u/hesabim\"]",
+    "type": "css"
+  },
+
+  {
+    "key": "yetiskin",
+    "value": "div[class='u-margin-top-small']:nth-child(4)>label[class=\"c-checkbox c-checkbox--filter \"]",
+    "type": "css"
+  },
+  {
+    "key": "anne",
+    "value": "div[class='u-margin-top-small']:nth-child(8)>label[class=\"c-checkbox c-checkbox--filter \"]",
+    "type": "css"
+  },
+  {
+  "key": "hediyeTipi",
+  "value": "gift-types-dropdown",
+  "type": "id"
+  },
+
+  {
+  "key": "dogumGunu",
+  "value": "option[value='dogum-gunu-hediyeleri-kadin']",
+  "type": "css"
+  },
+
+  {
+  "key": "hediyeAra",
+  "value": "jumbotron-fetch-category-button",
+  "type": "id"
+  },
+
+  {
+    "key": "ilkUrun",
+    "value": "a[data-position='1']",
+    "type": "css"
+  },
+  {
+  "key": "puan",
+  "value": "number_rating",
+  "type": "id"
+  },
+  {
+    "key": "favoriEkle",
+    "value": "button[style=\"margin-right: 0.6rem\"]",
+    "type": "css"
+  },
+  {
+  "key": "sepeteEkle",
+  "value": "add-to-cart-simple-button",
+  "type": "id"
+  },
+  {
+    "key": "favoriler",
+    "value": "button[class=\"c-unstyled-button u-margin-left-medium@lg-up \"]",
+    "type": "css"
+  },
+  {
+    "key": "sepet",
+    "value": "a[href='https://www.hediyesepeti.com/sepet']",
+    "type": "css"
+  },
+
+  {
+    "key": "favoriKontrol",
+    "value": "div[class='row row--narrow-gutter@md-down']",
+    "type": "css"
+  },
+  {
+    "key": "favoriUrun",
+    "value": "a[data-position='1']",
+    "type": "css"
+  },
+  {
+    "key": "logo",
+    "value": "a[href=\"https://www.hediyesepeti.com/\"]",
+    "type": "css"
+  },
+  {
+  "key": "urunSil",
+  "value": "button[name=\"delete-cart-product-button\"]",
+  "type": "css"
+},{
+  "key": "sepetKontrol",
+  "value": "div[class=\"o-shopping-cart-item\"]",
+  "type": "css"
+}
+
+]
